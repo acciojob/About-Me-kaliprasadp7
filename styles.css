@@ -1,1 +1,14 @@
-
+.container{
+	display:flex;
+	gap:20px;
+}
+.bio{
+	display:flex;
+	gap:80px;
+}
+img{
+	width: 100px;
+}
+input{
+	width:100%;
+}
